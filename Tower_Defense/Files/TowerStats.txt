@@ -1,0 +1,13 @@
+ID	Damage	Speed	Range	Cost	Ground?	Air?	Graphic
+0	10	6	150	70	1	0	\T11.png	Fire 1	Boost Range: Cost 100
+1	10	6	170	100	1	0	\T12.png	Fire 2	Boost Damage: Cost 220
+2	15	6	170	220	1	0	\T13.png	Fire 3	   Fully Upgraded
+3	4	4	180	50	1	0	\T21.png	Water 1	Boost Damage: Cost 70
+4	6	4	180	70	1	0	\T22.png	Water 2	Boost Speed: Cost 300
+5	6	2	180	300	1	0	\T23.png	Water 3	   Fully Upgraded
+6	2	8	250	30	1	0	\T31.png	Grass 1	Boost Damage: Cost 65
+7	4	8	250	65	1	0	\T32.png	Grass 2	Boost Damage: Cost 100
+8	6	8	250	100	1	0	\T33.png	Grass 3	   Fully Upgraded
+9	12	10	190	130	1	1	\T41.png	Rock 1	Boost Speed: Cost 200
+10	12	7	190	200	1	1	\T42.png	Rock 2	Boost Damage: Cost 350
+11	18	7	190	350	1	1	\T43.png	Rock 3	   Fully Upgradeed
