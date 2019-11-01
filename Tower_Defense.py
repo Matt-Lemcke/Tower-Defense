@@ -14,8 +14,8 @@ pygame.display.set_caption("Tower Defense")
 clock = pygame.time.Clock()
 
 #File directories
-imageDirect = "C:\Python27\PygameAssets\Tower_Defense\Images"
-fileDirect = "C:\Python27\PygameAssets\Tower_Defense\Files"
+imageDirect = "Tower_Defense\Images"
+fileDirect = "Tower_Defense\Files"
 
 #Load images
 mm = pygame.image.load(imageDirect + "\mainMenu.jpg")
